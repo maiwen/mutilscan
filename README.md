@@ -13,5 +13,5 @@ Python 3.6 is recommended. Compatibility with 2.7+ and
 or a pull request fixing any issues found with other versions of Python.
 
 
-An installer script is included in the project [install.sh](<install.sh>), which
+An installer script is included in the project [setup.py](<setup.py>), which
 installs the prerequisites on most systems.
